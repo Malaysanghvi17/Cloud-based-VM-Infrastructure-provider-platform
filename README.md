@@ -22,10 +22,10 @@ npm install
    - node index.js
 
 
-project frontend photos:
-
+project photos:
 ![image](https://github.com/Malaysanghvi17/Cloud-based-VM-Infrastructure-provider-platform/assets/127402092/f087d49c-4572-4d6d-ad35-ce2f7457be82)
-![image](https://github.com/Malaysanghvi17/Cloud-based-VM-Infrastructure-provider-platform/assets/127402092/c412ada8-e69f-4251-8179-ee25327dbf4a)
 ![image](https://github.com/Malaysanghvi17/Cloud-based-VM-Infrastructure-provider-platform/assets/127402092/b538becd-be2b-404d-b103-98105f5ffbd1)
 ![image](https://github.com/Malaysanghvi17/Cloud-based-VM-Infrastructure-provider-platform/assets/127402092/1f90baef-ad25-442c-a89d-5e642eafb9d2)
+![image](https://github.com/Malaysanghvi17/Cloud-based-VM-Infrastructure-provider-platform/assets/127402092/8209e15d-6d5a-43bc-b1aa-7775f997b72d)
+
 
